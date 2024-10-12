@@ -138,16 +138,17 @@ img {
 
 
   @media screen and (max-width: 480px) {
-    .raw{
-        flex-wrap: wrap;
-    }
-      .container {
-        width: 100%;
-      }
-      .col{
-        width: cover;
-       
-      }
+ .row{
+    display: inline-block;
+
+   }
+   
+    
+    
+
+   }
+    
+ }
 
   }
 
